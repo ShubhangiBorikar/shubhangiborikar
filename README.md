@@ -32,7 +32,7 @@ In essence, as a Data Analyst, I thrive on the intricacies of data-driven challe
 <p align="left"> 
  <p>
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
-    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Excel" width="40" height="40" style="margin-right: 50px;"/>
+    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Excel" width="40" height="40" style="margin-right: 150px;"/>
   </a>
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40" style="margin-right: 30px;"/>
