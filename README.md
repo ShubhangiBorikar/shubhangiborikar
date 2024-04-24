@@ -57,7 +57,7 @@ In essence, as a Data Analyst, I thrive on the intricacies of data-driven challe
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://dwglogo.com/wp-content/uploads/2016/07/tableau_certification_logo.svg" alt="tableau" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/500px-Tableau_logo.svg.png" alt="tableau" width="40" height="40"/>
   </a>
 </p>
 
