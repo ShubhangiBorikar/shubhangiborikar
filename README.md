@@ -61,7 +61,6 @@ In essence, as a Data Analyst, I thrive on the intricacies of data-driven challe
   </a>
 </p>
 
-
 <br />
 
 <h3 align="left">Connect with me:</h3>
