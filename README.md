@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Borikar</h1>
 <h3 align="center">A Data Analyst sharing passion to uncover the hidden insights.</h3>
 
+![image](https://github.com/ShubhangiBorikar/shubhangiborikar/assets/122408306/1f1d9b64-3fd5-4cda-b4a9-4a21e0e7b83b)
+
 <h3 align="left">Analytical Acumen:</h3>
 As a Data Analyst, I thrive on delving into complex projects that demand a fusion of analytical prowess and decision-making finesse. Armed with a foundation in SQL and a keen eye for patterns in data, I've tackled a variety of intricate tasks that push the boundaries of traditional analysis.
 
@@ -12,7 +14,6 @@ Beyond the realm of routine analysis, I relish the challenge of venturing into u
 
 In essence, as a Data Analyst, I thrive on the intricacies of data-driven challenges, continuously honing my skills and expertise to deliver impactful insights that drive strategic decision-making and propel organizational success.
 
-![image](https://github.com/ShubhangiBorikar/shubhangiborikar/assets/122408306/62817200-ab2a-475d-9b0e-61c007a1077d)
 
 
 
