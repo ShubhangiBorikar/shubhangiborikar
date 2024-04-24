@@ -32,25 +32,37 @@ In essence, as a Data Analyst, I thrive on the intricacies of data-driven challe
 <p align="left"> 
  <p>
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
-    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Excel" width="40" height="40" style="margin-right: 150px;"/>
+    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Excel" width="40" height="40"/>
   </a>
+  
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='40'%3E%3C/svg%3E" alt="spacer" />
+  
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40" style="margin-right: 150px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/>
   </a>
+  
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='40'%3E%3C/svg%3E" alt="spacer" />
+  
   <a href="https://sqliteonline.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" alt="SQL" width="40" height="40" style="margin-right: 150px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" alt="SQL" width="40" height="40"/>
   </a>
+  
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='40'%3E%3C/svg%3E" alt="spacer" />
+  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 150px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='40'%3E%3C/svg%3E" alt="spacer" />
+  
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 150px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
+  
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='40'%3E%3C/svg%3E" alt="spacer" />
+  
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tableau/tableau-viz-lwc/master/force-app/main/default/lwc/tableauViz/tableauViz.svg" alt="tableau" width="40" height="40" style="margin-right: 150px;"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40" style="margin-right: 150px;"/>
+    <img src="https://raw.githubusercontent.com/tableau/tableau-viz-lwc/master/force-app/main/default/lwc/tableauViz/tableauViz.svg" alt="tableau" width="40" height="40"/>
   </a>
 </p>
 
