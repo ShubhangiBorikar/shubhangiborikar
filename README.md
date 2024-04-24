@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Borikar</h1>
 <h3 align="center">A Data Analyst sharing passion to uncover the hidden insights.</h3>
 
-![Alt Text](https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif)<br><br>
+<p align="center">
+  <img src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" alt="Alt Text">
+</p>
 
 <h3 align="left">Analytical Acumen:</h3>
 As a Data Analyst, I thrive on delving into complex projects that demand a fusion of analytical prowess and decision-making finesse. Armed with a foundation in SQL and a keen eye for patterns in data, I've tackled a variety of intricate tasks that push the boundaries of traditional analysis.
