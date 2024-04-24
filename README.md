@@ -5,6 +5,8 @@
   <img src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" alt="Alt Text">
 </p>
 
+<br />
+
 <h3 align="left">Analytical Acumen:</h3>
 As a Data Analyst, I thrive on delving into complex projects that demand a fusion of analytical prowess and decision-making finesse. Armed with a foundation in SQL and a keen eye for patterns in data, I've tackled a variety of intricate tasks that push the boundaries of traditional analysis.
 
@@ -17,13 +19,14 @@ Beyond the realm of routine analysis, I relish the challenge of venturing into u
 In essence, as a Data Analyst, I thrive on the intricacies of data-driven challenges, continuously honing my skills and expertise to deliver impactful insights that drive strategic decision-making and propel organizational success.
 
 <br />
-<br />
 
 - 👨‍💻 Projects: [**https://github.com/ShubhangiBorikar**](https://github.com/ShubhangiBorikar)
 
 - 🔗 LinkedIn: **https://www.linkedin.com/in/shubhangiborikar/**
 
 - 📫 Email: **shubhangiborikar@gmail.com**
+
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
