@@ -37,12 +37,17 @@ In essence, as a Data Analyst, I thrive on the intricacies of data-driven challe
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="40" height="40"/>
   </a>
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
-  <a href="https://sqliteonline.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" alt="SQL" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.net/wp-content/uploads/2017/05/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  </a>
+  <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
+
+  <a href="https://www.microstrategy.com/en" target="_blank" rel="noreferrer">
+    <img src="https://seekvectorlogo.com/wp-content/uploads/2019/04/microstrategy-vector-logo.png" alt="MicroStrategy" width="40" height="40"/>
   </a>
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
