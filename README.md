@@ -12,6 +12,8 @@ Beyond the realm of routine analysis, I relish the challenge of venturing into u
 
 In essence, as a Data Analyst, I thrive on the intricacies of data-driven challenges, continuously honing my skills and expertise to deliver impactful insights that drive strategic decision-making and propel organizational success.
 
+![image](https://github.com/ShubhangiBorikar/shubhangiborikar/assets/122408306/62817200-ab2a-475d-9b0e-61c007a1077d)
+
 
 
 - 👨‍💻 Projects: [**https://github.com/ShubhangiBorikar**](https://github.com/ShubhangiBorikar)
