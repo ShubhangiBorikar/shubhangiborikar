@@ -32,32 +32,32 @@ In essence, as a Data Analyst, I thrive on the intricacies of data-driven challe
 <p align="left"> 
  <p>
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
-    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Excel" width="40" height="40"/>
+    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Excel" width="50" height="50"/>
   </a>
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="60" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="80" height="50"/>
   </a>
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.net/wp-content/uploads/2017/05/mysql-logo.png" alt="MySQL" width="60" height="50"/>
+    <img src="https://seeklogo.net/wp-content/uploads/2017/05/mysql-logo.png" alt="MySQL" width="80" height="50"/>
   </a>
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
   <a href="https://www.microstrategy.com/en" target="_blank" rel="noreferrer">
-    <img src="https://seekvectorlogo.com/wp-content/uploads/2019/04/microstrategy-vector-logo.png" alt="MicroStrategy" width="100" height="40"/>
+    <img src="https://seekvectorlogo.com/wp-content/uploads/2019/04/microstrategy-vector-logo.png" alt="MicroStrategy" width="100" height="60"/>
   </a>
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
   </a>
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
