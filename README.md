@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Borikar</h1>
 <h3 align="center">A Data Analyst sharing passion to uncover the hidden insights.</h3>
 
+<h3 align="left">About me:</h3>
 
 
 - 👨‍💻 Projects: [**https://github.com/ShubhangiBorikar**](https://github.com/ShubhangiBorikar)
