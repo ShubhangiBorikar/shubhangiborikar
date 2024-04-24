@@ -57,7 +57,7 @@ In essence, as a Data Analyst, I thrive on the intricacies of data-driven challe
   <img src="https://via.placeholder.com/150x1/00000000/00000000" alt="" width="20" height="0" />
 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tableau/tableau-viz-lwc/master/force-app/main/default/lwc/tableauViz/tableauViz.svg" alt="tableau" width="40" height="40"/>
+    <img src="https://www.svgviewer.dev/static-svgs/14591/tableau.svg" alt="tableau" width="40" height="40"/>
   </a>
 </p>
 
